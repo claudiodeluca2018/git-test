@@ -1,7 +1,3 @@
 uno
 
 text
-
-agrego texto en archivo uno local
-
-agrego texto en archivo uno del repositorio remoto
