@@ -1,3 +1,9 @@
 dos
 
 Estamos reinventandonos
+
+
+Segunda funcion
+begin
+
+end
